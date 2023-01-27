@@ -1,0 +1,29 @@
+html{
+    margin: auto;
+ }
+ 
+ .netflix{
+    width: 350px;
+     height: 100px; 
+  }
+ .dahmer{
+    width: 400px;
+    height:400px ;
+   margin-left: -20%;
+ }
+ .camara{
+    width: 400px;
+    height: 400px;
+    margin-right: -25%;
+ }
+ 
+  body{
+     background-color: black;
+  }
+  figcaption{
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: -25%;
+  }
+ 
