@@ -5,16 +5,16 @@ html{
  
 
  .camara{
-    width: 400px;
-    height: 400px;
+    width: 40000px;
+    height: 4px;
     margin-right: -25%;
  }
  
   body{
-     background-color: black;
+     background-color: rgb(248, 6, 6);
   }
   figcaption{
-    color: white;
+    color: rgb(238, 0, 0);
     text-align: center;
     margin-top: 5%;
     margin-left: -25%;
